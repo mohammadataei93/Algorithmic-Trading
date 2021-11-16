@@ -10,9 +10,6 @@ this is an example of detecting divergence in price and macd, then trade with sm
 
 ![alt text](https://github.com/mohammadataei93/Algorithmic-Trading-/blob/main/Images/divergence.png)
 
-\n
-\n
-\n
 
 you can find the 3SMA LongOnly strategy in LongOnly_3SMA_6TP_ETH1H.ipynb notebook 
 in this strategy we go long whenever 3 moving averages alines with slow to fast ordering 
